@@ -1,0 +1,9 @@
+<menu><id>file</id>
+<value>ddd</value>
+<value>13</value>
+<value>10.3</value>
+<popup>18</popup></menu>
+<jj>12</jj>
+<jj>100.22</jj>
+<jj>xxx</jj>
+<jj><zz>11</zz><zz>ccc</zz></jj>
